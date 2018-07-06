@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "godev/util"
+import "github.com/holeryu/godev/util"
 
 func main() {
 	countryCapitalMap := util.CountryCapitalMap();

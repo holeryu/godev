@@ -1,11 +1,15 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;godev&gt;">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../godev" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../.." />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../godev" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../.." />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />
